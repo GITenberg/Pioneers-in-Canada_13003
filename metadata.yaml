@@ -1,0 +1,44 @@
+_repo: Pioneers-in-Canada_13003
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wallcousins, E.
+    birthdate: 1883
+    deathdate: 1976
+    gutenberg_agent_id: '4777'
+    url: http://www.gutenberg.org/2009/agents/4777
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Wallcousins
+creator:
+  author:
+    agent_name: Johnston, Harry
+    aliases:
+    - Johnston, H. H. (Harry Hamilton), Sir
+    - Johnston, Henry Hamilton, Sir
+    - Johnston, Harry Hamilton, Sir
+    - Johnston, H.H.
+    birthdate: 1858
+    deathdate: 1927
+    gutenberg_agent_id: '4771'
+    url: http://www.gutenberg.org/2009/agents/4771
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Johnston
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcsh 'Frontier and pioneer life -- Canada'
+- !lcsh 'Pioneers -- Canada -- History'
+- !lcsh 'Canada -- Discovery and exploration'
+- !lcsh 'Indians of North America -- Canada'
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcc 'F1001'
+- GITenberg
+title: Pioneers in Canada
+url: http://www.gutenberg.org/ebooks/13003
